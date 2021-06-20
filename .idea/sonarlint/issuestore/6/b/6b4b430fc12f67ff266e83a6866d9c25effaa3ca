@@ -1,10 +1,10 @@
 
-python:S101"hRename class "Wavelet_Filter" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(·Ş‰Ö
-vpython:S117"ZRename this parameter "filteredSignal" to match the regular expression ^[_a-z][a-z0-9_]*$.(µš»òıÿÿÿÿ
 }python:S101"fRename class "Filter_BW_HP" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(ï‡ıÎ
-vpython:S117"_Rename this local variable "filteredSignal" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ùé¯Ğ
-kpython:S100"ORename method "BW_highpass" to match the regular expression ^[a-z_][a-z0-9_]*$.(…òûÿÿÿÿ
 }python:S101$"fRename class "FIlter_BW_LP" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(º»ˆ—
-vpython:S117)"ZRename this parameter "filteredSignal" to match the regular expression ^[_a-z][a-z0-9_]*$.(››Ñÿùÿÿÿÿ
+python:S101"hRename class "Wavelet_Filter" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(·Ş‰Ö
 ~python:S117+"bRename this local variable "newFilteredSignal" to match the regular expression ^[_a-z][a-z0-9_]*$.(¦óÕùÿÿÿÿ
 jpython:S100)"NRename method "BW_lowpass" to match the regular expression ^[a-z_][a-z0-9_]*$.(››Ñÿùÿÿÿÿ
+vpython:S117"_Rename this local variable "filteredSignal" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ùé¯Ğ
+vpython:S117"ZRename this parameter "filteredSignal" to match the regular expression ^[_a-z][a-z0-9_]*$.(µš»òıÿÿÿÿ
+kpython:S100"ORename method "BW_highpass" to match the regular expression ^[a-z_][a-z0-9_]*$.(…òûÿÿÿÿ
+vpython:S117)"ZRename this parameter "filteredSignal" to match the regular expression ^[_a-z][a-z0-9_]*$.(››Ñÿùÿÿÿÿ
