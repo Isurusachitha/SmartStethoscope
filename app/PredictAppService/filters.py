@@ -11,6 +11,7 @@ from .treadsafeSingleton import SingletonMeta
 from skimage.restoration import denoise_wavelet
 
 
+
 class Wavelet_Filter:
 
     def wavelet_filter(self, filteredSignal, samplerate):
